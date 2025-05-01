@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "575611583335",
+    "project_id": "streetfood-447b5",
+    "storage_bucket": "streetfood-447b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575611583335:android:0747379a22192cf9404dc2",
+        "android_client_info": {
+          "package_name": "com.example.habitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575611583335-ssvkuv5vq1qh8punik61iu9k55fgpn8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habitapp",
+            "certificate_hash": "aec45814a1aad013d3c8e9fcf549818e389872dd"
+          }
+        },
+        {
+          "client_id": "575611583335-3edl185nntq2mbkpis0tikmul9tq08ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhMm2pyCtDEkt4W_FKP0WkIWgreY6iGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575611583335-3edl185nntq2mbkpis0tikmul9tq08ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575611583335:android:6e567cdf0553786b404dc2",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575611583335-82jme1ot48ou7cpopar0p6n4hanbdge6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmacy_management",
+            "certificate_hash": "aec45814a1aad013d3c8e9fcf549818e389872dd"
+          }
+        },
+        {
+          "client_id": "575611583335-3edl185nntq2mbkpis0tikmul9tq08ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhMm2pyCtDEkt4W_FKP0WkIWgreY6iGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575611583335-3edl185nntq2mbkpis0tikmul9tq08ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575611583335:android:cfddbf435ad1e8cb404dc2",
+        "android_client_info": {
+          "package_name": "com.example.streetorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575611583335-3cvgohn3fhfhctv9j5nn560eim9ujno5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streetorder",
+            "certificate_hash": "aec45814a1aad013d3c8e9fcf549818e389872dd"
+          }
+        },
+        {
+          "client_id": "575611583335-3edl185nntq2mbkpis0tikmul9tq08ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhMm2pyCtDEkt4W_FKP0WkIWgreY6iGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575611583335-3edl185nntq2mbkpis0tikmul9tq08ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
