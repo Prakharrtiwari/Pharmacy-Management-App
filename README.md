@@ -13,6 +13,7 @@ A **Flutter-based mobile application** for managing pharmacy operations, includi
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [ScreenRecording](#screenrecording)
+- [Database Screenshots](#DatabaseScreenshots)
   
 
 ---
@@ -182,6 +183,13 @@ These dependencies are critical for the core functionality of the app, including
 ## ScreenRecording:-
 
 https://github.com/user-attachments/assets/1657ee46-2612-4d04-a6c9-4255b5f7b81b
+
+## Database Screenshots:-
+1.![Screenshot 2025-05-01 164429](https://github.com/user-attachments/assets/faa63f38-3bac-43ae-8330-d3c0ee173cb5)
+2.![Screenshot 2025-05-01 164447](https://github.com/user-attachments/assets/bf86b7f6-8a14-4948-bac4-a249f78e606c)
+3.![Screenshot 2025-05-01 164501](https://github.com/user-attachments/assets/6a01f99b-c945-4c67-be66-9bd753bbbbbd)
+
+
 
 
 
